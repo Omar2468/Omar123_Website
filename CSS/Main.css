@@ -4,3 +4,13 @@ h2{
 	color: green;
 	font-size: 60;
 }
+
+
+<style>
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+</style>
+
