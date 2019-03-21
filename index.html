@@ -1,7 +1,10 @@
+
+
  <!DOCTYPE html>
 <html>
 <head>
 	<title>Omar's Website</title>
+	<script src="JS/main.js"></script>
 	<link rel="stylesheet" type="text/css" href="CSS/Main.css">
 </head>
 
@@ -13,16 +16,13 @@ ul {
   overflow: hidden;
   background-color: green;
 }
-
 li {
   float: left;
   border-right:1px solid #bbb;
 }
-
 li:last-child {
   border-right: none;
 }
-
 li a {
   display: block;
   color: white;
@@ -30,18 +30,22 @@ li a {
   padding: 14px 16px;
   text-decoration: none;
 }
-
 li a:hover:not(.active) {
   background-color: red;
 }
-
 .active {
   background-color: red;
 }
 </style>
+<p>My Website</p>
+<h2>All About Me</h2>
+<a href="Pages/Assignments.html">Assignments</a>
+
 </head>
 <body>
 
+
+<button onclick="welcomeUser()">click here </button>
 <ul>
   <li><a class="active" href="#My Website">My Website</a></li>
   <li><a href="#news">News</a></li>
@@ -50,13 +54,7 @@ li a:hover:not(.active) {
 </ul>
 <h2>An Image That Represents Me</h2>
 <img src="Mocking-Spongebob.jpg" alt="Me" width="500" height="600">
+
 </body>
 
 </style>
-</head>
-
-<p>My Website</p>
-<h2>All About Me</h2>
-<a href="Pages/Assignments.html">Assignments</a>
-
-
