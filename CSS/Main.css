@@ -39,6 +39,9 @@ li a:hover:not(.active) {
   background-color: red;
 }
 
-
+body {
+  background-image: url("Northern Lights.jpg");
+  background-repeat: repeat-x;
+}
 
 
