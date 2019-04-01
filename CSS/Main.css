@@ -40,7 +40,7 @@ li a:hover:not(.active) {
 }
 
 body {
-  background-image: url("Northern Lights.jpg");
+  background-image src= ("Northern Lights.jpg");
   background-repeat: repeat-x;
 }
 
