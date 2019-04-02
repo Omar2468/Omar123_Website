@@ -1,5 +1,6 @@
-function welcomeUser(){ 
-	var name= prompt("Enter Your Name:");
-	alert("Welcome! "+ name);
+function welcomeUser() {
+  var name = prompt("Enter Your Name:");
+  console.log("Welcome! " + name);
 }
 
+function welcomeUser()
