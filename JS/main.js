@@ -3,4 +3,3 @@ function welcomeUser() {
   console.log("Welcome! " + name);
 }
 
-function welcomeUser()

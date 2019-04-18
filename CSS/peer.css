@@ -57,4 +57,12 @@ ul li.active a{
 
 p {
   color: white;
+  padding: 5px,20px;
+}
+
+button{
+ width:100px; 
+  height:100px;
+  color:black;
+  background-color: white;
 }

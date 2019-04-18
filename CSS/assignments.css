@@ -54,3 +54,28 @@ ul li.active a{
   font-size: 70px;
 
 }
+
+p{
+  color: white;
+}
+
+button{
+  width:100px; 
+  height:100px;
+  color:black;
+  background-color: white;
+}
+.button{
+  position: absolute;
+  top: 60%;
+  left: 50%;
+  transform: translate(-50%,-50%);
+}
+ .btn{
+  border:1px solid #fff;
+  padding: 10px 30px;
+  color: #fff;
+  text-decoration: none;
+ }
+
+ 
